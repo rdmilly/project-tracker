@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T20:05:00Z",
+  "lastUpdated": "2026-01-06T20:38:00Z",
   "projects": [
     {
       "id": "ai-hub",
@@ -50,11 +50,12 @@
       "tagline": "Public project showcase (this page!)",
       "icon": "📊",
       "brand": "mw",
-      "status": "active",
-      "phase": "Phase 3/3 - Deployment",
-      "progress": 80,
+      "status": "complete",
+      "phase": "Deployed & Auto-updating",
+      "progress": 100,
       "lastUpdate": "Jan 6",
       "links": [
+        {"label": "Live Site", "url": "https://projects.millyweb.com"},
         {"label": "GitHub", "url": "https://github.com/rdmilly/project-tracker"}
       ]
     }
