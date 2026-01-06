@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T20:38:00Z",
+  "lastUpdated": "2026-01-06T20:45:00Z",
   "projects": [
     {
       "id": "ai-hub",
@@ -55,7 +55,7 @@
       "progress": 100,
       "lastUpdate": "Jan 6",
       "links": [
-        {"label": "Live Site", "url": "https://projects.millyweb.com"},
+        {"label": "Live Site", "url": "https://tmw.millyweb.com"},
         {"label": "GitHub", "url": "https://github.com/rdmilly/project-tracker"}
       ]
     }
