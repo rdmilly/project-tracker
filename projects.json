@@ -1,0 +1,62 @@
+{
+  "lastUpdated": "2026-01-06T20:05:00Z",
+  "projects": [
+    {
+      "id": "ai-hub",
+      "name": "AI Hub Infrastructure",
+      "tagline": "Self-hosted AI infrastructure with MCP integration",
+      "icon": "🤖",
+      "brand": "mw",
+      "status": "active",
+      "phase": "Phase 5/8 - MCP Public Stack",
+      "progress": 65,
+      "lastUpdate": "Jan 6",
+      "links": [
+        {"label": "GitHub", "url": "https://github.com/rdmilly"},
+        {"label": "mcp.millyweb.com", "url": "https://mcp.millyweb.com"}
+      ]
+    },
+    {
+      "id": "rf-website",
+      "name": "RevenueFirst.AI Website",
+      "tagline": "Sales automation landing page",
+      "icon": "💰",
+      "brand": "rf",
+      "status": "complete",
+      "phase": "All phases complete",
+      "progress": 100,
+      "lastUpdate": "Jan 4",
+      "links": [
+        {"label": "revenuefirst.ai", "url": "https://revenuefirst.ai"}
+      ]
+    },
+    {
+      "id": "little-steps",
+      "name": "Little Steps Nanny Service",
+      "tagline": "Professional nanny service website",
+      "icon": "👶",
+      "brand": "client",
+      "status": "active",
+      "phase": "Phase 2/4 - Design",
+      "progress": 40,
+      "lastUpdate": "Jan 5",
+      "links": [
+        {"label": "justlittlesteps.com", "url": "https://justlittlesteps.com"}
+      ]
+    },
+    {
+      "id": "project-tracker",
+      "name": "Project Tracker",
+      "tagline": "Public project showcase (this page!)",
+      "icon": "📊",
+      "brand": "mw",
+      "status": "active",
+      "phase": "Phase 3/3 - Deployment",
+      "progress": 80,
+      "lastUpdate": "Jan 6",
+      "links": [
+        {"label": "GitHub", "url": "https://github.com/rdmilly/project-tracker"}
+      ]
+    }
+  ]
+}
